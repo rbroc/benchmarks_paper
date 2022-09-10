@@ -1,5 +1,5 @@
 ### benchmarking-psychology
-This repository contains code and data used for "Putting psychology to the test: rethinking model evaluation through benchmarking and prediction" (Rocca & Yarkoni, 2020). <br>
+This repository contains code and data used for "Putting psychology to the test: rethinking model evaluation through benchmarking and prediction", published in Advances in Methods and Practices in Psychological Science (https://journals.sagepub.com/doi/pdf/10.1177/25152459211026864). <br>
 This repo is organized as follows:
 - `manylabs1_data` contains data from Many Labs 1 (Klein et al., 2014; data available at https://osf.io/wx7ck/);
 - Minor preprocessing of the data (i.e. removal of unused columns and regex replacement in empty cells) was performed using `preprocess_data.py`;
